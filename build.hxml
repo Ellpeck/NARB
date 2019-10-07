@@ -1,0 +1,6 @@
+# Use build.sh to do an actual build as this one doesn't copy assets or start the game
+
+-cp src
+--java-lib lib/RockBottom.jar
+-java bin
+Mod.hx
